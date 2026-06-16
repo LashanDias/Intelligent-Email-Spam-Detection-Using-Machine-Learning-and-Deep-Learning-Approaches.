@@ -1,0 +1,2 @@
+# Intelligent-Email-Spam-Detection-Using-Machine-Learning-and-Deep-Learning-Approaches.
+Our project aims to solve the problem of identifying harmful emails by developing email spam detection system using Natural language processing . The system automatically detect email as spams or hams based on their textual content. This help users filtered unwanted emails , reduce phishing risk and improve email security and productivity.  
